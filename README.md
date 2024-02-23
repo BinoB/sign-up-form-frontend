@@ -35,7 +35,8 @@ Start the development server:
         ![image](https://github.com/BinoB/sign-up-form-frontend/assets/87536383/19fc57e7-6259-499b-b286-40118603dbc0)
 
 
-  ###Project Structure
+### Project Structure
+
 
             src/
 |-- components/
