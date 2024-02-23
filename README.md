@@ -32,7 +32,8 @@ Start the development server:
   npm start
 
   Open http://localhost:3000 in your browser to view the signup form.
-        ![image](https://github.com/BinoB/sign-up-form-frontend/assets/87536383/19fc57e7-6259-499b-b286-40118603dbc0)
+       ![image](https://github.com/BinoB/sign-up-form-frontend/assets/87536383/1c7c2a6f-7eb5-410f-a846-6ae71a9240eb)
+
 
 
 ### Project Structure
