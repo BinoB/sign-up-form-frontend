@@ -68,7 +68,7 @@ const SignUpForm = () => {
   
     try {
       const response = await axios.post(
-        "http://localhost:5000/user/signup",
+        "https://sign-up-form-backend.onrender.com",
         formData
       );
       console.log("User created:", response.data);
