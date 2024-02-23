@@ -12,7 +12,15 @@ body {
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background: rgb(235, 191, 79);
+  background-image: url(./background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-size: contain; 
+  }
 }
 .container {
   position: relative;
@@ -128,7 +136,7 @@ body {
 .combined-input input,
 .combined-input select {
   flex: 1;
-  margin-right: 5px; /* Adjust spacing between input and select */
+  margin-right: 5px; 
 }
 
 .select {
@@ -161,4 +169,3 @@ body {
   border: 1px solid #ddd;
 }
 
-/* Add any additional styles specific to the select box as needed */
